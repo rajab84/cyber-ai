@@ -9,7 +9,7 @@ troubleshoot, document and automate high available enterprise
 on-premise and cloud solutions including firewalls, routers, switches,
 load balancers, application firewalls, and end point protection
 technologies. Managed and implemented 30+ network and
-infrastructure projects worth over $10,000,000 considering three ISO
+infrastructure projects worth over $11,000,000 considering three ISO
 standards which achieved successful 100% digital transformation. This
 include solutions from AWS, Cisco, Fortinet, PaloAlto, NetApp, Mellanox,
 VMware, Oracle, IBM, HP, and Brocade.
