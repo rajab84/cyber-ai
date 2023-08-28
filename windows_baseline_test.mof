@@ -1,0 +1,21 @@
+instance of ASM_AuditPolicy as $ASM_AuditPolicy4ref
+{
+	RuleId = "{4f8fd732-facf-4184-a29c-61fdd40db89d}";
+	AzId = "CCE-37741-6";
+	BaselineId = "{982a79a8-1c46-4fdf-8cfd-60afedf7ad96}";
+	OriginalBaselineId = "{9c2bc3d1-8668-48e5-ac5f-281718d52174}";
+	Name = "Audit Credential Validation";
+	Severity = "Critical";
+	Subcategory = "{0CCE923F-69AE-11D9-BED3-505054503030}";
+	ExpectedValue = "Success and Failure";
+	RemediateValue = "Success and Failure";
+	Remediate = true;
+	AnalyzeOperation = "EQUALS";
+	ServerTypeFilter = "ServerType = [Domain Member, Workgroup Member]";
+	OSFilter = "OSVersion = [WS2008, WS2008R2, WS2012, WS2012R2, WS2016]";
+	Enabled = true;
+	ResourceID = "Audit Credential Validation";
+	ModuleName = "AzureOSBaseline";
+	ModuleVersion = "1.0";
+	ConfigurationName = "AzureOSBaseline";
+};
